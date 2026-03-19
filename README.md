@@ -1,4 +1,3 @@
-# Climate-risk-news-collection-wsj
 
 # Research Project: WSJ Articles Scraping
 
